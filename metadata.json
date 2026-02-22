@@ -1,0 +1,7 @@
+{
+  "name": "Dynamic QR Generator Pro",
+  "description": "A professional platform for creating and managing dynamic QR codes with scheduled price changes, product landing pages, and multi-format downloads.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
