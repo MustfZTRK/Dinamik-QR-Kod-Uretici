@@ -1,6 +1,9 @@
 # Dinamik-QR-Kod-retici
 Dynamic QR Generator Pro (Dinamik QR Pro)
-# Dynamic QR Generator Pro (Dinamik QR Pro)
+
+<a href="https://ibb.co/sdkQ6ptQ"><img src="https://i.ibb.co/ycG5YmV5/Ekran-g-r-nt-s-2026-02-22-061844.png" alt="Ekran-g-r-nt-s-2026-02-22-061844" border="0"></a>
+<a href="https://ibb.co/k21vD855"><img src="https://i.ibb.co/KxwSsqbb/Ekran-g-r-nt-s-2026-02-22-061901.png" alt="Ekran-g-r-nt-s-2026-02-22-061901" border="0"></a>
+<a href="https://ibb.co/HLyM79N8"><img src="https://i.ibb.co/dsv3BHbY/Ekran-g-r-nt-s-2026-02-22-061916.png" alt="Ekran-g-r-nt-s-2026-02-22-061916" border="0"></a>
 
 Bu proje, işletmeler için modern, dinamik ve tam kapsamlı bir QR kod yönetim sistemidir. Kullanıcıların dinamik fiyatlandırma, kampanya yönetimi ve detaylı analitik takibi yapabilmelerine olanak sağlar.
 
